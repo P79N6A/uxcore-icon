@@ -19,7 +19,6 @@ const icons = [
   'lianjie',
   'dayin',
   'fujian',
-  'pingxing',
   'ren',
   'paixu-jiangxu',
   'paixu-shengxu',
@@ -84,10 +83,6 @@ const icons = [
   'zhanghaobianji',
   'zhanghaoguanli',
   'pinglun',
-  'renyuansousuo1',
-  'ren1',
-  'tuandui1',
-  'renyuanzengjia1',
   'renyuanmingpian',
   'renyuan',
   'top',
@@ -96,6 +91,13 @@ const icons = [
   'bottom',
   'left_double',
   'right_double',
+  'xiaolian-line',
+  'kulian-full',
+  'caozuo-xingji-line',
+  'caozuo-xingji-full',
+  'kulian-line',
+  'xiaolian-full',
+  'xianshi',
 ];
 
 class Demo extends React.Component {
