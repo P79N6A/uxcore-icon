@@ -98,6 +98,10 @@ const icons = [
   'kulian-line',
   'xiaolian-full',
   'xianshi',
+  'chuangjiansiyoumoban',
+  'guojihuayibangdingwenan',
+  'guojihua',
+  'jinggao',
 ];
 
 class Demo extends React.Component {
