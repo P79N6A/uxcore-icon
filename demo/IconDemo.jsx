@@ -99,9 +99,11 @@ const icons = [
   'xiaolian-full',
   'xianshi',
   'chuangjiansiyoumoban',
-  'guojihuayibangdingwenan',
-  'guojihua',
   'jinggao',
+  'biaodanlei-tongyongqingchu',
+  'suo',
+  'biaoqian-qingchu',
+  'biaoqianxuanze-duoxuan-gou',
 ];
 
 class Demo extends React.Component {
