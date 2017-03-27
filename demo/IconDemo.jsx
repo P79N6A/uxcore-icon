@@ -11,6 +11,7 @@ const Clipboard = require('react-clipboard.js');
 const Message = require('uxcore-message');
 const Icon = require('../src');
 
+
 const icons = [
   'xiala',
   'liucheng',
@@ -107,6 +108,10 @@ const icons = [
   'yiwen-full',
   'chenggong-full',
   'tishi-full',
+  'wangwang',
+  'dianhua',
+  'dingding',
+  'youxiang-full',
 ];
 
 class Demo extends React.Component {
