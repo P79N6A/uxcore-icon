@@ -1,5 +1,9 @@
 # history
 
+## 0.1.5 / 2017-03-27
+
+* `NEW` add 4 new icons
+
 ## 0.1.5 / 2017-03-24
 
 * `NEW` add 4 new icons
