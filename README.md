@@ -74,3 +74,5 @@ Yes please! See the [CONTRIBUTING](https://github.com/uxcore/uxcore/blob/master/
 |---|---|---|---|---|
 |name|string|no|shezhi| 图标名字 |
 |className|string|no| | 额外类名 |
+
+其他 props 将透传给 icon 元素

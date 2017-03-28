@@ -16,12 +16,13 @@ class Icon extends React.Component {
   }
 
   render() {
-    const { name, className } = this.props;
+    const { name, className, ...otherProps } = this.props;
     return (
       <icon
         className={classnames(`uxcore-icon uxicon-${name}`, {
           [className]: !!className,
         })}
+        {...otherProps}
       />
     );
   }
