@@ -112,6 +112,8 @@ const icons = [
   'dianhua',
   'dingding',
   'youxiang-full',
+  'loading-icon-round',
+  'caozuo-shoucang-full',
 ];
 
 class Demo extends React.Component {

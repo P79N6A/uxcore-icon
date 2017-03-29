@@ -1,5 +1,9 @@
 # history
 
+## 0.1.9 / 2017-03-28
+
+* `NEW` add 2 new icons
+
 ## 0.1.8 / 2017-03-28
 
 * `NEW` pass other props to icon
