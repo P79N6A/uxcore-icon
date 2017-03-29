@@ -114,6 +114,7 @@ const icons = [
   'youxiang-full',
   'loading-icon-round',
   'caozuo-shoucang-full',
+  'aite',
 ];
 
 class Demo extends React.Component {
