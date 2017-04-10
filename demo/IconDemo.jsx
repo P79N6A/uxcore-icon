@@ -13,6 +13,7 @@ const Icon = require('../src');
 
 
 const icons = [
+  'dingding',
   'xiala',
   'liucheng',
   'bingtu',
@@ -110,7 +111,6 @@ const icons = [
   'tishi-full',
   'wangwang',
   'dianhua',
-  'dingding',
   'youxiang-full',
   'loading-icon-round',
   'caozuo-shoucang-full',
