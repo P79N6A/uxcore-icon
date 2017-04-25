@@ -1,5 +1,9 @@
 # history
 
+## 0.1.13 / 2017-04-25
+
+* `CHANGED` add 20 new icons
+
 ## 0.1.12 / 2017-04-10
 
 * `CHANGED` fix dingding icon
