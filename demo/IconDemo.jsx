@@ -142,6 +142,18 @@ const icons = [
   'qiuzhu',
   'shouce',
   'xiazai1',
+  'shu1',
+  'huibiao',
+  'guanbi',
+  'yincang',
+  'yuyuechenggong',
+  'yuyue',
+  'dianzan',
+  'baocun',
+  'ceshi',
+  'shanjian-full',
+  'zengjia-full',
+  'moren',
 ];
 
 class Demo extends React.Component {
