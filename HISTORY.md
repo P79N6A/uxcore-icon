@@ -1,5 +1,9 @@
 # history
 
+## 0.1.15 / 2017-10-10
+
+* `CHANGED` fit React@15
+
 ## 0.1.15 / 2017-06-29
 
 * `CHANGED` add 9 new icons
