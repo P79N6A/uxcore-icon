@@ -6,4 +6,4 @@
  * All rights reserved.
  */
 
-module.exports = require('./Icon');
+export default from './Icon';

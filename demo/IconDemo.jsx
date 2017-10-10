@@ -6,10 +6,11 @@
  * All rights reserved.
  */
 
-const React = require('react');
-const Clipboard = require('react-clipboard.js');
-const Message = require('uxcore-message');
-const Icon = require('../src');
+import React from 'react';
+
+import Clipboard from 'react-clipboard.js';
+import Message from 'uxcore-message';
+import Icon from '../src';
 
 
 const icons = [
@@ -167,8 +168,9 @@ class Demo extends React.Component {
   render() {
     return (
       <div>
-        {icons.map(name => (
+        {icons.map((name, i) => (
           <Clipboard
+            key={i}
             className="demo-item-clipboard"
             component="div"
             data-clipboard-text={`<Icon name="${name}" />`}
@@ -187,4 +189,4 @@ class Demo extends React.Component {
   }
 }
 
-module.exports = Demo;
+export default Demo;

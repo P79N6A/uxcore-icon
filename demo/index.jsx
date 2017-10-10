@@ -6,9 +6,10 @@
  * All rights reserved.
  */
 
-const ReactDOM = require('react-dom');
-const React = require('react');
-const Demo = require('./IconDemo');
+import ReactDOM from 'react-dom';
+
+import React from 'react';
+import Demo from './IconDemo';
 
 ReactDOM.render(<Demo />, document.getElementById('UXCoreDemo'));
 
