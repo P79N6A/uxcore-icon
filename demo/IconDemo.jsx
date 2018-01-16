@@ -122,6 +122,7 @@ const icons = [
   'zidingyilie',
   'suoxiao',
   'fangda',
+  'fangwen',
   'fanyi',
   'fanyi-full',
   'option-yixuan-gou',
@@ -155,6 +156,20 @@ const icons = [
   'shanjian-full',
   'zengjia-full',
   'moren',
+  'bianji',
+  'guojihua',
+  'gengduo',
+  'fuli',
+  'nianjia',
+  'xinchouhesuan',
+  'gouwuche',
+  'saoma',
+  'shoudiantong',
+  'ARsaomiao',
+  'nav-bottom',
+  'nav-right',
+  'nav-top',
+  'nav-left',
 ];
 
 class Demo extends React.Component {

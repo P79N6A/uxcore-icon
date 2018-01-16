@@ -8,8 +8,8 @@
 import React from 'react';
 import classnames from 'classnames';
 import PropTypes from 'prop-types';
-class Icon extends React.Component {
 
+class Icon extends React.Component {
   constructor(props) {
     super(props);
     this.state = {};
