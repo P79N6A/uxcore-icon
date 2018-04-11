@@ -1,5 +1,9 @@
 # history
 
+## 0.1.18 / 2018-04-11
+
+* `CHANGED` add 1 new icon
+
 ## 0.1.17 / 2018-01-16
 
 * `CHANGED` add 14 new icons

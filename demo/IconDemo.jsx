@@ -170,10 +170,9 @@ const icons = [
   'nav-right',
   'nav-top',
   'nav-left',
+  'fuhao-shizhong-line',
 ];
-
 class Demo extends React.Component {
-
   constructor(props) {
     super(props);
     this.state = {
