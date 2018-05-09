@@ -13,6 +13,15 @@ import Message from 'uxcore-message';
 import Icon from '../src';
 
 
+/**
+ * Icon Component Style for uxcore
+ * @author eternalsky
+ *
+ * Copyright 2015-2016, Uxcore Team, Alinw.
+ * All rights reserved.
+ */
+
+
 const icons = [
   'dingding',
   'xiala',
@@ -93,6 +102,7 @@ const icons = [
   'bottom',
   'left_double',
   'right_double',
+  'shaixuan',
   'xiaolian-line',
   'kulian-full',
   'caozuo-xingji-line',
@@ -163,6 +173,7 @@ const icons = [
   'nianjia',
   'xinchouhesuan',
   'gouwuche',
+  'fuhao-shizhong-line',
   'saoma',
   'shoudiantong',
   'ARsaomiao',
@@ -170,7 +181,6 @@ const icons = [
   'nav-right',
   'nav-top',
   'nav-left',
-  'fuhao-shizhong-line',
 ];
 class Demo extends React.Component {
   constructor(props) {
