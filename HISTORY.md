@@ -1,5 +1,10 @@
 # history
 
+## 0.1.20 / 2018-06-14
+
+* `CHANGED` adapt React 16
+* `CHANGED` support `usei` to clear React warning.
+
 ## 0.1.19 / 2018-05-09
 
 * `CHANGED` add 2 new icons
