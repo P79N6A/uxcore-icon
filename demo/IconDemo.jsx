@@ -203,7 +203,7 @@ class Demo extends React.Component {
             }}
           >
             <div className="demo-item" key={name}>
-              <Icon name={name} className="demo-class" />
+              <Icon usei name={name} className="demo-class" />
               <div>{name}</div>
             </div>
           </Clipboard>

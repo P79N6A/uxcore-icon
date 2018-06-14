@@ -16,20 +16,25 @@ class Icon extends React.Component {
   }
 
   render() {
-    const { name, className, ...otherProps } = this.props;
+    const { name, className, usei, ...otherProps } = this.props;
+    const iconProps = {
+      className: classnames(`uxcore-icon uxicon-${name}`, {
+        [className]: !!className,
+      }),
+      ...otherProps,
+    };
+    if (usei) {
+      return <i {...iconProps} />;
+    }
     return (
-      <icon
-        className={classnames(`uxcore-icon uxicon-${name}`, {
-          [className]: !!className,
-        })}
-        {...otherProps}
-      />
+      <icon {...iconProps} />
     );
   }
 }
 
 Icon.defaultProps = {
   name: 'shezhi',
+  usei: false,
 };
 
 
@@ -37,6 +42,7 @@ Icon.defaultProps = {
 Icon.propTypes = {
   name: PropTypes.string,
   className: PropTypes.string,
+  usei: PropTypes.bool,
 };
 
 Icon.displayName = 'Icon';
