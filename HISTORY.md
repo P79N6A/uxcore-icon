@@ -1,5 +1,9 @@
 # history
 
+## 0.1.21 / 2018-08-15
+
+* `CHANGED` add 1 new icon
+
 ## 0.1.20 / 2018-06-14
 
 * `CHANGED` adapt React 16

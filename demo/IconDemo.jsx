@@ -21,7 +21,6 @@ import Icon from '../src';
  * All rights reserved.
  */
 
-
 const icons = [
   'dingding',
   'xiala',
@@ -173,6 +172,7 @@ const icons = [
   'nianjia',
   'xinchouhesuan',
   'gouwuche',
+  'fuhao-tongzhi',
   'fuhao-shizhong-line',
   'saoma',
   'shoudiantong',
@@ -204,7 +204,9 @@ class Demo extends React.Component {
           >
             <div className="demo-item" key={name}>
               <Icon usei name={name} className="demo-class" />
-              <div>{name}</div>
+              <div>
+{name}
+</div>
             </div>
           </Clipboard>
         ))}
