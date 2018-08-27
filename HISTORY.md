@@ -1,5 +1,9 @@
 # history
 
+## 0.1.22 / 2018-08-27
+
+* `CHANGED` support js style export
+
 ## 0.1.21 / 2018-08-15
 
 * `CHANGED` add 1 new icon
