@@ -181,6 +181,10 @@ const icons = [
   'nav-right',
   'nav-top',
   'nav-left',
+  'dianzifapiao',
+  'caozuo-bianji',
+  'zhixiang-houtui',
+  'zhixiang-qianjin'
 ];
 class Demo extends React.Component {
   constructor(props) {
