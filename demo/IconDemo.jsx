@@ -184,7 +184,8 @@ const icons = [
   'dianzifapiao',
   'caozuo-bianji',
   'zhixiang-houtui',
-  'zhixiang-qianjin'
+  'zhixiang-qianjin',
+  'zhongyaoshijian'
 ];
 class Demo extends React.Component {
   constructor(props) {

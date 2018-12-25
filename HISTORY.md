@@ -1,4 +1,7 @@
 # history
+## 0.1.24 / 2018-12-24
+* `CHANGED` add 1 new icon
+
 ## 0.1.23 / 2018-12-24
 * `CHANGED` add 4 new icon
 
