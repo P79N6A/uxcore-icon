@@ -185,7 +185,8 @@ const icons = [
   'caozuo-bianji',
   'zhixiang-houtui',
   'zhixiang-qianjin',
-  'zhongyaoshijian'
+  'zhongyaoshijian',
+  'more-dot',
 ];
 class Demo extends React.Component {
   constructor(props) {
@@ -210,8 +211,8 @@ class Demo extends React.Component {
             <div className="demo-item" key={name}>
               <Icon usei name={name} className="demo-class" />
               <div>
-{name}
-</div>
+                {name}
+              </div>
             </div>
           </Clipboard>
         ))}
