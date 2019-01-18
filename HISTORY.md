@@ -1,8 +1,10 @@
 # history
 
+## 0.1.26 / 2019-01-18
+* `CHANGED` add 1 new icon drag
+
 ## 0.1.25 / 2019-01-18
 * `CHANGED` add 1 new icon more-dot
-
 ## 0.1.24 / 2018-12-24
 * `CHANGED` add 1 new icon
 

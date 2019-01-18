@@ -186,6 +186,7 @@ const icons = [
   'zhixiang-houtui',
   'zhixiang-qianjin',
   'zhongyaoshijian',
+  'drag',
   'more-dot',
 ];
 class Demo extends React.Component {
